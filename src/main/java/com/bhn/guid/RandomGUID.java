@@ -206,7 +206,7 @@ public class RandomGUID extends Object {
 		for (int i = 0; i < c; i++) {
 			RandomGUID myGUID = new RandomGUID(true);
 			String str = myGUID.toString();
-			System.out.println(str);
+			//System.out.println(str);
 		}
 		long t2 = System.currentTimeMillis();
 		System.out.println("TPS=" + c * 1000 / (t2 - t1));
