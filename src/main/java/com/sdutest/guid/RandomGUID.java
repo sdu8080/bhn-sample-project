@@ -1,4 +1,4 @@
-package com.bhn.guid;
+package com.sdutest.guid;
 
 /*
  * RandomGUID

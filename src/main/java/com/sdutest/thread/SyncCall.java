@@ -1,4 +1,4 @@
-package com.bhn.thread;
+package com.sdutest.thread;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;

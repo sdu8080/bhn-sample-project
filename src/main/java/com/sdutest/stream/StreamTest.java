@@ -1,4 +1,4 @@
-package com.bhn.stream;
+package com.sdutest.stream;
 
 import java.util.Arrays;
 import java.util.List;

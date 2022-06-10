@@ -1,4 +1,4 @@
-package com.bhn.owasp.xss;
+package com.sdutest.owasp.xss;
 
 import org.owasp.encoder.Encode;
 
