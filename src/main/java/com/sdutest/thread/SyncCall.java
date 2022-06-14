@@ -7,6 +7,14 @@ import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
+
+/**
+ * this cod eis to demo how a future onject to wait for a executor to finish it task (with timeout),
+ * then continue.
+ *
+ * Kyle's test
+ *
+ */
 public class SyncCall {
     public static void main(String[] args) {
         try {
